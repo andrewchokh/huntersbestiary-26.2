@@ -1,13 +1,3 @@
 {
-  "itemGroup.huntersbestiary": "Example Mod Tab",
-  "block.huntersbestiary.example_block": "Example Block",
-  "item.huntersbestiary.example_item": "Example Item",
-
-  "huntersbestiary.configuration.title": "Hunter's Bestiary Configs",
-  "huntersbestiary.configuration.section.huntersbestiary.common.toml": "Hunter's Bestiary Configs",
-  "huntersbestiary.configuration.section.huntersbestiary.common.toml.title": "Hunter's Bestiary Configs",
-  "huntersbestiary.configuration.items": "Item List",
-  "huntersbestiary.configuration.logDirtBlock": "Log Dirt Block",
-  "huntersbestiary.configuration.magicNumberIntroduction": "Magic Number Text",
-  "huntersbestiary.configuration.magicNumber": "Magic Number"
+  "item.huntersbestiary.bestiary": "Bestiary"
 }
